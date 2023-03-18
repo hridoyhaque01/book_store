@@ -14,8 +14,8 @@
       "author": "Laura Dave",
       "thumbnail": "https://m.media-amazon.com/images/P/1501171348.01._SCLZZZZZZZ_SX500_.jpg",
       "price": 13.99,
-      "rating": 3,
-      "featured": false,
+      "rating": 4,
+      "featured": true,
       "id": 2
     },
     {
@@ -37,11 +37,11 @@
       "id": 6
     },
     {
-      "name": "Educated A Memoir",
-      "author": "Tara Westover",
+      "name": "educated",
+      "author": "Laura Dave",
       "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2018/12/educated.jpg",
-      "price": 32.4,
-      "rating": 3,
+      "price": 12.6,
+      "rating": 4,
       "featured": true,
       "id": 7
     }
