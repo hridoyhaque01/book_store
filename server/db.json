@@ -41,8 +41,8 @@
       "author": "Laura Dave",
       "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2018/12/educated.jpg",
       "price": 12.6,
-      "rating": 4,
-      "featured": true,
+      "rating": 3,
+      "featured": false,
       "id": 7
     }
   ]

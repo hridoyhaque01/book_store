@@ -16,7 +16,7 @@ export default function EditBook() {
   }
 
   if (!isLoading && isError) {
-    content = <div>There was an Error!</div>;
+    content = <div className="error">There was an Error!</div>;
   }
 
   if (!isLoading && !isError && book?.id) {
